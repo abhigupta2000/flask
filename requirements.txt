@@ -1,0 +1,4 @@
+deep_translator==1.8.3
+Flask==2.1.1
+joblib==1.1.0
+gunicorn
